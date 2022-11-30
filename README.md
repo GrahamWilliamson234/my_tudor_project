@@ -61,3 +61,28 @@ To finish off the design of this website, I added a favicon of the House of Tudo
 <div>
 <img title="favicon" alt="Website favicon" src="assets/images/favicon.png";>
 </div>
+# Location
+
+All my projects are also available to view on my portfolio website.
+[www.dazl.ie](http://project1.dazl.ie)
+
+# Validation
+To ensure the functionality of this project I had 3 tasks.
+1. HTML Validation
+<input type="checkbox" input checked>
+2. CSS Validation
+<input type="checkbox" input checked>
+3. Lighthouse Accessibility
+<input type="checkbox" input checked>
+
+The results of these test are shown below:
+
+<ul>
+<li>HTML <ul style="list-style-type:circle"><li>No errors returned on W3C HTML validator</li></ul>
+</li>
+<li>CSS <ul style="list-style-type:circle"><li>No errors returned on W3C CSS validator</li></ul>
+</li>
+<li>Accessibility <ul style="list-style-type:circle"><li>On website inspection, lighthouse results are shown below</li></ul>
+</li>
+</ul>
+<img title="lighthouse" alt="lighthouse result" src="assets/images/lighthouse.png";>
