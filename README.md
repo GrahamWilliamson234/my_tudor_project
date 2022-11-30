@@ -86,3 +86,23 @@ The results of these test are shown below:
 </li>
 </ul>
 <img title="lighthouse" alt="lighthouse result" src="assets/images/lighthouse.png";>
+# Tools
+
+The main tools of this project were:
+<div>
+<img title="main tools" alt="HTML and CSS logo" src="assets/images/tools1.png";>
+</div>
+
+### [W3C HTML](https://www.w3schools.com/html/default.asp)
+### [W3C CSS](https://www.w3schools.com/cssref/index.php)
+
+
+As well as the Code Institute course content, I also got inspiration from some
+online tutorials and video's and also books such as  books from Mike McGraths and video tutorials from Mike Dane.
+
+# Course
+
+## Professional Diploma in Full Stack Software Development
+### University College Dublin [Website](https://www.ucd.ie/professionalacademy/why-ucd-professional-academy/)
+
+### Code Institute [Website](https://codeinstitute.net/ie/full-stack-software-development-diploma/?utm_term=code%20institute&utm_campaign=CI+-+IRL+-+Search+-+Brand&utm_source=adwords&utm_medium=ppc&hsa_acc=8983321581&hsa_cam=14304747355&hsa_grp=128775288169&hsa_ad=595155717776&hsa_src=g&hsa_tgt=kwd-342001843376&hsa_kw=code%20institute&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwnvOaBhDTARIsAJf8eVOdV0BAxB5DwdTrFB9AvR5tJ73tLtvCsSeHDsSSq9e1gNbiXiNLTZQaAkyKEALw_wcB)
