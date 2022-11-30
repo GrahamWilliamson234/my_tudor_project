@@ -70,3 +70,29 @@ span{
 .navlist a:hover::after{
     width: 100%;
 }
+#menu-icon{
+    font-size: 26px;
+    color: var(--text-color);
+    cursor: pointer;
+    z-index: 1001;
+    display: none;
+}
+.h-btn a{
+    color: var(--text-color);
+    font-weight: 500;
+    padding: 8px 26px;
+    border: 2px solid transparent;
+    transition: ease .40s;
+}
+.h-btn .sign-in{
+    color: var(--text-color);
+    background: var(--main-color);
+    border-radius: 30px;
+}
+.h-btn .sign-in:hover{
+    background: transparent;
+    border: 2px solid var(--main-color);
+}
+section{
+    padding: 120px 16%;
+}
