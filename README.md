@@ -45,6 +45,7 @@ When viewed on a smaller screen, the crest was too dominant, to fix this issue I
 <div>
 <img title="battle of boswort" alt="The battle of Boswort Field link" src="assets/images/readme5.png";>
 </div>
+
 ## <b>First Monarch:</b>
 Each page contains a photo of the revelent King/Queen, the dates of there reign and a brief description.
 
@@ -61,6 +62,7 @@ To finish off the design of this website, I added a favicon of the House of Tudo
 <div>
 <img title="favicon" alt="Website favicon" src="assets/images/favicon.png";>
 </div>
+
 # Location
 
 All my projects are also available to view on my portfolio website.
