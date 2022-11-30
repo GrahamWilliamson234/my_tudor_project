@@ -232,3 +232,16 @@ section{
     line-height: 1.8;
     color: var(--other-color);
 }
+.copyright{
+    background: var(--bg-color);
+    padding: 20px 30px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+.copyright p{
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--other-color);
+}
