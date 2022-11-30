@@ -261,4 +261,29 @@ section{
 .icon a:hover{
     transform: translateY(-10px);
 }
+/*display for smaller screens*/
 
+@media (max-width: 1380px){
+    header{
+        padding: 18px 2%;
+        transition: .2s;
+    }
+
+    section{
+        padding: 80px 2%;
+        transition: .3s;
+    }
+
+    :root{
+        --big-font: 4.7rem;
+        --h2-font: 2.5rem;
+    }
+
+    .home-text h4{
+        font-size: 1.2rem;
+    }
+
+    .count span{
+        font-size: 1.3rem;
+    }
+}
