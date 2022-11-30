@@ -8,7 +8,7 @@
                 <li><a href="#tools">Tools</a></li>
                 <li><a href="#course">Course</a></li>
                 <li><a href="#books">Books</a></li>
-                <li><a href="#influences">Influences</a></li>
+                <li><a href="#credit">Credit</a></li>
                 <li><a href="#links">Links</a></li>
             </ul>
 
@@ -113,7 +113,7 @@ online tutorials and video's and also books such as  books from Mike McGraths an
 
 ### Jon Duckett - HTML & CSS, design and build websites [Amazon](https://www.amazon.co.uk/HTML-CSS-Design-Build-Websites/dp/1118008189/ref=asc_df_1118008189/?tag=googshopuk-21&linkCode=df0&hvadid=310831942794&hvpos=&hvnetw=g&hvrand=9245307914514372249&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=20487&hvtargid=pla-425752469964&psc=1&th=1&psc=1)
 
-# Influences
+# Credit
 
 ### Mike Dane [Website](https://www.mikedane.com/) [YouTube](https://www.youtube.com/c/GiraffeAcademy)
 
