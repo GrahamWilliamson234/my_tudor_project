@@ -12,7 +12,7 @@
                 <li><a href="#links">Links</a></li>
             </ul>
 
-# [My Project 1](http://project1.dazl.ie)
+# [My Project 1](https://project1.dazl.ie)
 
 Hi! My name is Graham. In this README page were you will find out a little about me, my website, my coding journey, my projects and who has influenced me in the development of this website.
 
@@ -36,6 +36,7 @@ When viewed on a smaller screen, the crest was too dominant, to fix this issue I
 <div>
 <img title="Main Page" alt="website main page phone view" src="assets/images/phone_view.jpg";>
 </div>
+
 
 ### Family Tree link:
 <div>
