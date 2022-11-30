@@ -119,6 +119,9 @@ online tutorials and video's and also books such as  books from Mike McGraths an
 
 ### TiffinTech [Youtube](https://www.youtube.com/c/TiffInTech/about)
 
+#### <u>To the books linked above and the links below and the course tutorials, I couldn't have done it without your help.</u>
+
+
 
 # Links
 
