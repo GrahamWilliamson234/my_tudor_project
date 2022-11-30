@@ -365,3 +365,11 @@ section{
         margin-bottom: 30px;
     }
 }
+@media (max-width: 750px){
+    :root{
+        --big-font: 3.5rem;
+        --h2-font: 1.9rem;
+        --p-font: 0.9rem;
+
+    }
+}
