@@ -338,3 +338,30 @@ section{
         top: 100%;
     }
 }
+@media (max-width: 770px){
+    .about{
+        grid-template-columns: 1fr;
+    }
+
+    .about-img{
+        text-align: center;
+        margin-bottom: 40px;
+    }
+
+    .contact{
+        text-align: center;
+    }
+
+    .contact h2{
+        font-size: 1.4rem;
+    }
+
+    .copyright{
+        justify-content: center;
+        text-align: center;
+    }
+
+    .copyright p{
+        margin-bottom: 30px;
+    }
+}
