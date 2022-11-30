@@ -45,3 +45,19 @@ When viewed on a smaller screen, the crest was too dominant, to fix this issue I
 <div>
 <img title="battle of boswort" alt="The battle of Boswort Field link" src="assets/images/readme5.png";>
 </div>
+## <b>First Monarch:</b>
+Each page contains a photo of the revelent King/Queen, the dates of there reign and a brief description.
+
+Below each picture is a 'Read More' link that will bring you to a second page containing some key facts and dates of events during the reign of that monarch.
+
+<div>
+<img title="Henry VII" alt="page with a photo of King Henry 7 and a brief description" src="assets/images/readme2.png";>
+<img title="Henry VII" alt="more key facts on King Henry 7" src="assets/images/readme3.png";>
+</div>
+
+## <b>Favicon:</b>
+To finish off the design of this website, I added a favicon of the House of Tudor shield.
+
+<div>
+<img title="favicon" alt="Website favicon" src="assets/images/favicon.png";>
+</div>
